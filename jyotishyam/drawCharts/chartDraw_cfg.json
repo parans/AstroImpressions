@@ -1,0 +1,26 @@
+{
+    "Comment" : "Configurations relating to chart drawn like (a)colour of each house (b)line colour (c) sign number colour (d) chart template ",
+    "background-colour" : "white",
+    "outerbox-colour" : "gray",
+    "line-colour" : "grey",
+    "sign-colour" : "crimson",
+    "malefic-planet-colour" : "black",
+    "benefic-planet-colour" : "green",
+    "neutral-planet-colour" : "brown",
+    "house-colour" : {
+                        "tanbhav"      : "gold",
+                        "dhanbhav"     : "gold",
+                        "anujbhav"     : "gold",
+                        "maatabhav"    : "gold",
+                        "santanbhav"   : "gold",
+                        "rogbhav"      : "gold",
+                        "dampathyabhav": "gold",
+                        "aayubhav"     : "gold",
+                        "bhagyabhav"   : "gold",
+                        "karmabhav"    : "gold",
+                        "laabbhav"     : "gold",
+                        "karchbhav"    : "gold"
+                     },
+    "template"  :   "north-square-classic",
+    "aspect-visibility"  : true
+}
